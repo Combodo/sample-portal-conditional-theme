@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3">
+	<module_designs>
+		<!-- Note : Change the portal id if necessary -->
+		<module_design id="itop-portal">
+			<properties>
+				<themes>
+					<theme id="sample" _delta="define">../pages/exec.php/SampleTheme/style.css?exec_module=itop-portal-base&amp;exec_page=index.php&amp;portal_id=itop-portal</theme>
+				</themes>
+			</properties>
+		</module_design>
+	</module_designs>
+</itop_design>

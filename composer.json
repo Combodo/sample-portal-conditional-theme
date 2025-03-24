@@ -1,0 +1,10 @@
+{
+  "config": {
+    "autoloader-suffix" : "Sample_Conditional_Theme"
+  },
+  "autoload": {
+    "psr-4": {
+      "Combodo\\iTop\\Portal\\": "src/"
+    }
+  }
+}
